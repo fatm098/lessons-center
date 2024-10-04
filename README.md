@@ -1,0 +1,1 @@
+simple lessons center project with python language that provied add,update,delete,search,select all for both tracher and student and  there database ,the email and password for his login are koky and 0123
